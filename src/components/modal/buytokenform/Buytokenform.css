@@ -1,0 +1,16 @@
+.buytoken_form_css {
+    width: 50% !important;
+    margin: auto !important;
+    background: #80808030 !important;
+    padding: 30px !important;
+    margin-top: 20px !important;
+    border-radius: 10px !important;
+    color: white !important;
+}
+ 
+.address_select{
+    width: 100% !important;
+    padding: 13px !important;
+    border-radius: 5px !important;
+    border: 1px solid lightgray !important;
+}
